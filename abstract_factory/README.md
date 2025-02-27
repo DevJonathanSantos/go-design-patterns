@@ -1,7 +1,5 @@
 # **Abstract Factory em Go**
 
-![Abstract Factory em Go](/images/patterns/cards/abstract-factory-mini.png?id=4c3927c446313a38ce77dfee38111e27)
-
 ## 📌 Sobre o Abstract Factory
 
 O **Abstract Factory** é um padrão de projeto **criacional** que resolve o problema de criar **famílias inteiras de produtos** sem precisar especificar suas classes concretas.
